@@ -16,14 +16,12 @@
 </div>
 -->
 
----
-
 ### :technologist: About Me :
 Hello! I'm Adam, a third-year Computer Science undergraduate at the National University of Singapore (NUS).
 
-&nbsp; :telescope: Specialising in Software Engineering.
+&nbsp; :telescope: Specialising in Artificial Intelligence and Software Engineering.
 
-&nbsp; :seedling: Exploring technical content writing.
+&nbsp; :seedling: Aspiring tech entreprenuer 
 
 &nbsp; :zap: Besides coding, I like to stay physically active, read books and hang out with friends.
 
