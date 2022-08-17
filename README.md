@@ -4,8 +4,8 @@
     <a href="https://www.linkedin.com/in/adam-hky/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://adamhky.com/ target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&" alt="Portfolio Badge"/>
+    <a href="https://adamhky.com/ target="blank">
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=about.me" alt="Portfolio Badge"/>
     </a>
 </div>
 <h1>
