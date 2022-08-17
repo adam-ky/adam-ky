@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/adam-hky/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://adamhky.com/ target="blank">
+    <a href="https://adamhky.com/" target="blank">
       <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=about.me" alt="Portfolio Badge"/>
     </a>
 </div>
@@ -25,7 +25,7 @@ Hello! I'm Adam, a third-year Computer Science undergraduate at the National Uni
 
 &nbsp; :telescope: Specialising in Artificial Intelligence and Software Engineering.
 
-&nbsp; :seedling: Aspiring tech entreprenuer 
+&nbsp; :seedling: Aspiring tech entreprenuer to develop AI-driven software applications.
 
 &nbsp; :zap: Besides coding, I like to stay physically active, read books and hang out with friends.
 
